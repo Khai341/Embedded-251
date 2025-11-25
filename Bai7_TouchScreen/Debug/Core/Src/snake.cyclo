@@ -1,0 +1,15 @@
+../Core/Src/snake.c:61:24:cell_x_px	1
+../Core/Src/snake.c:62:24:cell_y_px	1
+../Core/Src/snake.c:64:13:draw_cell	1
+../Core/Src/snake.c:71:13:place_food	12
+../Core/Src/snake.c:122:12:cell_equals	3
+../Core/Src/snake.c:127:18:opposite	1
+../Core/Src/snake.c:131:6:snake_restart	4
+../Core/Src/snake.c:155:6:snake_init	1
+../Core/Src/snake.c:161:6:snake_draw_full	3
+../Core/Src/snake.c:170:6:snake_set_direction	2
+../Core/Src/snake.c:176:6:snake_set_direction_from_touch	5
+../Core/Src/snake.c:253:6:snake_on_tick	15
+../Core/Src/snake.c:304:9:snake_is_alive	1
+../Core/Src/snake.c:324:6:draw_buttons	1
+../Core/Src/snake.c:343:6:read_button_input	18
